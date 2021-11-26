@@ -1,2 +1,4 @@
 # GetCources
-for zero web school get cources
+for zero web school get cources 
+
+##turgui 
